@@ -1,0 +1,10 @@
+node_modules/
+.env
+.env.local
+certs/
+storage/
+*.db
+*.sqlite
+*.sqlite3
+# Par de claves RSA (nunca committear la clave privada)
+keys/
